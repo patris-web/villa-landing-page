@@ -5,6 +5,10 @@ The project focuses on immersive visuals, smooth scrolling animations and a prem
 
 This landing page was designed to showcase a villa property with a clean UI, high-quality imagery and responsive layout across all devices.
 
+## Live Demo
+
+https://patris-web.github.io/villa-landing-page/
+
 ---
 
 ## ✨ Features
